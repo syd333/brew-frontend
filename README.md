@@ -2,6 +2,9 @@ BREW PROJECT :::
 ----------------------
 Do you love beer?! obviously! Brew Project is here for you... search, rate, and comment on any brewery from across the United States!
 
+WE ARE LIVE - VISIT US:::
+www.brewery-project.com
+
 
 Development set up :::
 ----------------------
